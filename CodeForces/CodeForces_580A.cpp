@@ -4,6 +4,7 @@ Let us remind you that the subsegment of the sequence is its continuous fragment
 numbers in it follow in the non-decreasing order.
 
 Help Kefa cope with this task!
+problem rating : 900
 
 intput:6
 2 2 1 3 4 1
